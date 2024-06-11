@@ -1,0 +1,25 @@
+_repo: Andronica-b-Tragedia-en-tres-actes-y-en-vers_73777
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guimerà, Angel
+    gutenberg_agent_id: '57216'
+    url: http://www.gutenberg.org/2009/agents/57216
+description: ''
+gutenberg_issued: '2024-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73777'
+language: ca
+pgterms:marc905: 20240603095024guimer
+pgterms:marc906: '1905'
+pgterms:marc907: ES
+production_note: digital editor Joan Queralt Gil
+publication_note: '  $aBarcelona :$bImprempta de Joseph Ortega, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Andrónica : $b Tragedia en tres actes y en vers'
+url: http://www.gutenberg.org/ebooks/73777
